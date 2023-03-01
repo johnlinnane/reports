@@ -1,4 +1,4 @@
-# 1. Pentesting Report
+# 1. Pentesting Report [pentest-report.pdf]
 
 ### Scope
 This penetration test was conducted on three networks in order to provide your company with a comprehensive risk assessment. The three networks were selected to cover range of operational systems and include both internal and external networks.
@@ -7,7 +7,8 @@ To begin with, we conducted a test on the externally facing webservices located 
 ### Objectives
 The objective of this penetration test is to represent an end-to-end attack on a conglomerate network comprised of three sub-networks. It illustrates how an attack originating from outside of the organization can lead to a full compromise of identity within the organization, along with access to the operation and configuration of external facing resources e.g., commercial websites. A combination of attacks on three different operating systems is used to gain a foothold on the wider network and highlights the need for the implementation of an in-depth defense strategy in order to prevent this type of attack.
 
-# 2. Remcos Malware Report
+# 2. Remcos Malware Report [remcos-malware-report.pdf]
+
 
 ### Malware Lab Setup
 This malware lab setup is comprised of the VirtualBox Hypervisor running on an iMac host. The hypervisor is running two virtual machines, Windows 7 32-Bit and Ubuntu 16.04. The Ubuntu machine is acting as a bridging machine between the host computer’s network and the internal virtual network
@@ -18,7 +19,7 @@ In order to simulate a typical user environment on the Windows infection machine
 ### Ubuntu
 The Ubuntu machine is used both for static analysis of malware and for network traffic analysis. Linux has a large selection of useful and lightweight tools that can be used to analyse executables, some of which are listed in the table below. The machine was also used as a gateway for situations where the Windows malware needed access to the internet in order to execute successfully.
 
-# 3. Sality Botnet Report
+# 3. Sality Botnet Report [sality-botnet-report.pdf]
 
 The objective of this report is to research the workings of a selected botnet. The Sality botnet has been highly active globabally in various iterations for close to two decades and continues to be a significant threat to the present day. The significance of this botnet will be examined in terms of its impact on an operational level and on a global organisational level. Analysis of online research papers, datasets, and pcap files will be used to ascertain the botnet’s workings from a software perspective. According to some malware threat maps, Sality is still one of the most pervasive botnets in terms of attack frequency. This report aims to investigate whether these map results are due to legacy mislabeling or whether Sality is still highly active.
 
